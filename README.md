@@ -1,0 +1,22 @@
+wassup lil bro
+
+hand gesture control  this app uses your webcam and ai to track your hands  you control your computer with gestures
+
+before you start  when you launch the app it asks for a detection confidence between 01 and 10  lower numbers make it easier to detect your hands but may cause false readings  just press enter for the default 05 which works well for most people
+
+cursor mode  your index finger moves the mouse around the screen  when you pinch your thumb and index finger together it clicks  the cursor stays exactly where you leave it and only moves when you move your hand  if your hand leaves the frame and comes back the cursor does not jump
+
+volume mode  the distance between your thumb and index finger controls the system volume  open your fingers apart for louder volume and pinch them together for quieter volume
+
+media mode  if you raise only your index finger the page scrolls up  if you raise your index and middle finger together the page scrolls down  if you make a fist with all fingers closed it takes a screenshot
+
+rectangle mode  when you hold both hands up with your index fingers and thumbs visible it creates an xray window between your hands  the inside of the window shows an inverted blue tinted camera feed while the outside stays normal  a white scan line moves from top to bottom and bright corner brackets frame the window
+
+to switch between modes raise your right hand with four or more fingers up  the mode changes once  close your hand and raise it again to go to the next mode  you can also press the number keys 1 2 3 or 4 to switch directly
+
+the window is resizable  drag the edges or use windows snap with win and arrow keys
+
+press q to quit the app  press s to take a screenshot at any time
+
+IMPORTANT
+if your ass coudnt do this youre fucking dumb also pls donate money to me you greedy bitch
